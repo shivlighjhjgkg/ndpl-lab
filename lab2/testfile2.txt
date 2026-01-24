@@ -1,0 +1,1 @@
+The second test paragraph is slightly different to ensure that file comparisons and content changes are easy to detect. Using unique text across test files helps confirm that read, write, and update operations behave correctly without accidentally duplicating or overwriting data during development or automated testing.

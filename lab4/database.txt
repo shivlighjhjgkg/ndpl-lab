@@ -1,0 +1,4 @@
+google.com 142.250.183.14
+yahoo.com 98.137.11.163
+manipal.edu 103.10.23.45
+github.com 140.82.113.3
